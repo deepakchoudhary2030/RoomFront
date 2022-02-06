@@ -1,0 +1,26 @@
+.abt1{
+    padding: 48px;
+}
+.img{
+    height: 140px;
+    width: 140px;
+    object-fit: cover;
+    border-radius: 99px;
+    border : 2px solid black;
+   
+}
+.abt2{
+    padding: 48px;
+    text-align: center;
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+@media only screen and (max-width: 820px) {
+    .abt2{
+        flex-direction: column;
+        text-align: center;
+    }
+}

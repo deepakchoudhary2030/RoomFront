@@ -1,0 +1,8 @@
+.ownerhome1{
+    background: url("https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding: 24px;
+}
